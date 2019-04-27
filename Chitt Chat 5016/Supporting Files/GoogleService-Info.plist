@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244286963896-6jadt3fvv43rs3v14a8in0fg50l05poh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244286963896-6jadt3fvv43rs3v14a8in0fg50l05poh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-URvcxnMIVj1F482DaRQbuV9JYLte__k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244286963896</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HounApps.Chitt-Chat-5016</string>
+	<key>PROJECT_ID</key>
+	<string>chitt-chat-5016-731c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chitt-chat-5016-731c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244286963896:ios:7f5a03765bebf73d</string>
+	<key>DATABASE_URL</key>
+	<string>https://chitt-chat-5016-731c6.firebaseio.com</string>
+</dict>
+</plist>
